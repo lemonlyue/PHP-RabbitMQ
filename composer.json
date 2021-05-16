@@ -1,0 +1,7 @@
+{
+    "name": "lemon_lyue/php-rabbitmq",
+    "description": "php rabbitmq learn",
+    "require": {
+        "php-amqplib/php-amqplib": "^3.0"
+    }
+}
