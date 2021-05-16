@@ -1,0 +1,4 @@
+E:\php_project\php-rabbitmq\src\example3\receive_logs.php:17:
+string(30) "amq.gen-WlXTICI95XOuSkoRAZZPbw"
+ [*] Waiting for logs. To exit press CTRL+C
+ [x] info: Hello World!
